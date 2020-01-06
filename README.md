@@ -1,2 +1,2 @@
-# Judy.github.io
+# Judy
 # 博客
